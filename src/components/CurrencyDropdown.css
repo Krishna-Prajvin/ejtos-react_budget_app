@@ -1,0 +1,37 @@
+.currency-dropdown-container {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.currency-label {
+    margin-right: 5px;
+}
+
+.currency-dropdown-select {
+    background-color: transparent;
+    border: 1px solid #ced4da;
+    padding: 5px;
+    border-radius: 4px;
+}
+
+.currency-dropdown-select option {
+    background-color: lightgreen;
+    color: black;
+}
+
+.currency-dropdown-select option:hover {
+    background-color: white;
+}
+.currency-dropdown-container {
+    display: inline-block;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    background-color: #f8f9fa;
+    padding: 0.25rem 0.5rem;
+}
+
+.currency-dropdown-select {
+    padding: 0.25rem 0.5rem;
+    border: none;
+    background-color: transparent;
+}
